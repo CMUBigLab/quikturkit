@@ -1,0 +1,1 @@
+Quik Turkit rovides nearly realtime services from Mechanical Turk by managing how workers are recruited, queued up, and sent to complete jobs that you create on your web site. Quik Turkit is built to run using the <a href='http://groups.csail.mit.edu/uid/turkit/'>Turkit library</a>.
